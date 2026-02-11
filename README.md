@@ -81,6 +81,7 @@ python plot_invalidated_temp.py
 ## Outputs:
 
 Trend plot: raw temperature vs valid-only temperature + moving average
+
 Optional cleaned export: sensor_log_cleaned.csv
 
 ![Graph](/Codes/Graph.png)
