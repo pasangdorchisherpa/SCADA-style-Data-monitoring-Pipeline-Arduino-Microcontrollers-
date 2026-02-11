@@ -1,1 +1,1 @@
-# SCADA-style-Data-monitoring-Pipeline-Arduino-Microcontrollers-
+# SCADA-style Data Monitoring Pipeline (Arduino/Microcontrollers)
