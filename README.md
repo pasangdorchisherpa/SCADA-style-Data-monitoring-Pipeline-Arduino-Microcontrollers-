@@ -10,7 +10,7 @@ This project reads temperature & humidity (DHT11) and distance/proximity (HC-SR0
 ## Features
 
 ### Arduino (Edge/PLC Layer)
-- Reads DHT11*temperature/humidity
+- Reads DHT11 temperature/humidity
 - Reads HC-SR04 distance
 - Displays live values on 16×2 LCD (parallel, 4-bit mode)
 - Drives a passive buzzer (via 2N2222A transistor) with alarm patterns:
